@@ -10,9 +10,22 @@
 		35E108D92E41865C004CA0BB /* HolaMundo2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HolaMundo2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		35FA36002E4FFE6400DF92DB /* Exceptions for "HolaMundo2" folder in "HolaMundo2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 35E108D82E41865C004CA0BB /* HolaMundo2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		35E108DB2E41865C004CA0BB /* HolaMundo2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				35FA36002E4FFE6400DF92DB /* Exceptions for "HolaMundo2" folder in "HolaMundo2" target */,
+			);
 			path = HolaMundo2;
 			sourceTree = "<group>";
 		};
@@ -91,6 +104,8 @@
 			knownRegions = (
 				en,
 				Base,
+				"fr-CA",
+				de,
 			);
 			mainGroup = 35E108D02E41865C004CA0BB;
 			minimizedProjectReferenceProxies = 1;
@@ -256,6 +271,8 @@
 				DEVELOPMENT_TEAM = 9A34S65324;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HolaMundo2/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +301,8 @@
 				DEVELOPMENT_TEAM = 9A34S65324;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HolaMundo2/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
