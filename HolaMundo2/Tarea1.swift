@@ -28,6 +28,8 @@ para rescatar al canciller
 cautivo...
 """
 struct Tarea1: View {
+    let starwarstext: String = String(localized:"StarWars")
+    
     var body: some View {
         VStack {
             Text("Episodio HHH")

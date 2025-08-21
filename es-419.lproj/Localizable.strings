@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  HolaMundo2
+
+  Created by win603 on 20/08/25.
+  
+*/
+"StarWars" = """
+La galaxia está al borde 
+del caos. Tras años de frágil
+paz, una nueva amenaza emerge 
+desde las regiones desconocidas: 
+la Sombra Eterna, un antiguo 
+culto que busca desatar el 
+poder del Lado Oscuro.
+
+La Nueva República, debilitada
+por conflictos internos, lucha 
+por mantenerse unida. En medio 
+del desorden, un grupo de valientes 
+rebeldes liderados por la capitana 
+Kael Rynn emprende una misión desesperada 
+para encontrar un artefacto legendario 
+que podría cambiar el destino de todos.
+Mientras los sistemas estelares 
+eligen bando, la Fuerza despierta 
+en lugares insospechados. La batalla 
+por el alma de la galaxia ha comenzado...""";

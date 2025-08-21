@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  HolaMundo2
+
+  Created by win603 on 20/08/25.
+  
+*/
+
+"StarWars" = """
+The galaxy teeters on 
+the edge of chaos. After 
+years of fragile peace, a new 
+threat emerges from the Unknown 
+Regions: the Eternal Shadow, 
+an ancient cult seeking to 
+unleash the full power of t
+he Dark Side.
+
+The New Republic, weakened 
+by internal strife, struggles 
+to remain united. Amid the 
+disorder, a band of brave rebels 
+led by Captain Kael Rynn embarks 
+on a desperate mission to find a 
+legendary artifact that could change 
+the fate of all.
+
+As star systems choose sides, the 
+Force awakens in unexpected places. 
+The battle for the soul of the 
+galaxy has begun...""";

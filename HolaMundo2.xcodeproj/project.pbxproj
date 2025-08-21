@@ -6,7 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		35021EC32E569998009AE20B /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35021EC12E569998009AE20B /* Localizable.strings */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		35021EC22E569998009AE20B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		35021EC42E5699C6009AE20B /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		35E108D92E41865C004CA0BB /* HolaMundo2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HolaMundo2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -45,6 +51,7 @@
 		35E108D02E41865C004CA0BB = {
 			isa = PBXGroup;
 			children = (
+				35021EC12E569998009AE20B /* Localizable.strings */,
 				35E108DB2E41865C004CA0BB /* HolaMundo2 */,
 				35E108DA2E41865C004CA0BB /* Products */,
 			);
@@ -104,8 +111,7 @@
 			knownRegions = (
 				en,
 				Base,
-				"fr-CA",
-				de,
+				"es-419",
 			);
 			mainGroup = 35E108D02E41865C004CA0BB;
 			minimizedProjectReferenceProxies = 1;
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35021EC32E569998009AE20B /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +145,18 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		35021EC12E569998009AE20B /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35021EC22E569998009AE20B /* en */,
+				35021EC42E5699C6009AE20B /* es-419 */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		35E108E22E41865D004CA0BB /* Debug */ = {
