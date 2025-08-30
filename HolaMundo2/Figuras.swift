@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Tarea2: View {
+struct Figuras: View {
     var body: some View {
         ScrollView(){
             VStack(spacing:10){
@@ -45,5 +45,5 @@ struct Tarea2: View {
 }
 
 #Preview {
-    Tarea2()
+    Figuras()
 }

@@ -5,8 +5,8 @@
   Created by win603 on 20/08/25.
   
 */
-
-"StarWars" = """
+"titulo" = "THE RISE OF THE SHADOW";
+"StarWars" = "
 The galaxy teeters on 
 the edge of chaos. After 
 years of fragile peace, a new 
@@ -28,4 +28,4 @@ the fate of all.
 As star systems choose sides, the 
 Force awakens in unexpected places. 
 The battle for the soul of the 
-galaxy has begun...""";
+galaxy has begun...";

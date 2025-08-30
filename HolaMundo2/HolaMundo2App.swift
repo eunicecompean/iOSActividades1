@@ -12,6 +12,7 @@ struct HolaMundo2App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(\.locale, .init(identifier: "en"))
         }
     }
 }

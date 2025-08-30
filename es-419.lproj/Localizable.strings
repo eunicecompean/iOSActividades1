@@ -5,7 +5,8 @@
   Created by win603 on 20/08/25.
   
 */
-"StarWars" = """
+"titulo" = "EL ASCENSO DE LA SOMBRA";
+"StarWars" = "
 La galaxia está al borde 
 del caos. Tras años de frágil
 paz, una nueva amenaza emerge 
@@ -25,4 +26,4 @@ que podría cambiar el destino de todos.
 Mientras los sistemas estelares 
 eligen bando, la Fuerza despierta 
 en lugares insospechados. La batalla 
-por el alma de la galaxia ha comenzado...""";
+por el alma de la galaxia ha comenzado...";

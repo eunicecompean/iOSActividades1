@@ -5,7 +5,7 @@
 //  Created by win603 on 15/08/25.
 //
 import SwiftUI
-let textoStarWars = """
+/*let textoStarWars = """
 ¡Guerra! La república se
 desmorona bajo los ataques del
 despiadado lord sith el conde
@@ -26,15 +26,16 @@ rehen, dos caballeros jedi
 lideran una mision desesperada
 para rescatar al canciller
 cautivo...
-"""
+"""*/
 struct Tarea1: View {
     let starwarstext: String = String(localized:"StarWars")
+    let titulo: String = String(localized:"titulo")
     
     var body: some View {
         VStack {
             Text("Episodio HHH")
-            Text("La renganaa de lns shth")
-            Text(textoStarWars)
+            Text(titulo)
+            Text(starwarstext)
                 .frame(width: .infinity, height: .infinity).rotation3DEffect(
                     .degrees(Double(45)),axis: (x: 0.5, y: 0.0, z: 0.0)
                 )
